@@ -8,7 +8,7 @@
     <title>student</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav style=bac class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,15 +35,19 @@
 <div class="col">
 <table class="table-borderless">
 <tr>
-    <td>name</td>
+    <td>faculty name</td>
     <td><input type="text" class="form-control"></td>
 </tr>
 <tr>
-    <td>roll number</td>
+    <td>department name</td>
     <td><input type="text" class="form-control"></td>
 </tr>
 <tr>
-    <td>admission number</td>
+    <td>address</td>
+    <td><input type="text" class="form-control"></td>
+</tr>
+<tr>
+    <td>education qualification</td>
     <td><input type="text" class="form-control"></td>
 </tr>
 <tr>

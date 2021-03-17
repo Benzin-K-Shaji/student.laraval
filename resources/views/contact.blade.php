@@ -39,15 +39,11 @@
     <td><input type="text" class="form-control"></td>
 </tr>
 <tr>
-    <td>roll number</td>
+    <td>message</td>
     <td><input type="text" class="form-control"></td>
 </tr>
 <tr>
-    <td>admission number</td>
-    <td><input type="text" class="form-control"></td>
-</tr>
-<tr>
-    <td>college</td>
+    <td>phone no</td>
     <td><input type="text" class="form-control"></td>
 </tr>
 <tr>
